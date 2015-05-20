@@ -8,7 +8,7 @@ var App = function() {
   };
 
   function clearClassification() {
-    self.$classification.innerText = "";
+    self.$classification.innerText = "give me your best triangle";
   }
 
   return self;
